@@ -32,7 +32,7 @@ Endpoints for `/predict`, `/age` and `/status` are exposed with CORS support, an
 ## Tech Stack
 
 <div align="center">
-<img src="https://tech-stack.wontory.dev/api/orbit?text=NeuralAge&slugs=fastapi,pytorch,opencv,python" alt="tech stack orbit" width="380" />
+<img src="https://tech-orbit.wontory.dev/api?title=NeuralAge&tech=fastapi,pytorch,opencv,python&size=420&duration=20" alt="tech stack orbit" width="420" />
 </div>
 
 FastAPI for the backend and routing, PyTorch with Diffusers for the Stable Diffusion pipeline, a custom CNN for age classification, OpenCV for image handling, and a lightweight HTML, CSS and JS front end embedded directly in the service.
